@@ -1,7 +1,7 @@
 
 # Intro
 
-I have bachelor’s degree in Computer Science and I am finalising a Master’s degree in Data Science and Machine Learning. My University journey has been focused on web and mobile programming and I’ve gained programming fundamentals. I am very passionate and I like to solve problems and explore alternative solutions, always trying to find the one that best suits the context. I tend to share what I have learned and my ideas with people, because I believe that there is no knowledge without unity.
+I have a bachelor’s degree with honours in Computer Science and I am finalising a Master’s degree in Data Science and Machine Learning. My University journey has been focused on web and mobile programming and I’ve gained programming fundamentals. I am very passionate and I like to solve problems and explore alternative solutions, always trying to find the one that best suits the context. I tend to share what I have learned and my ideas with people, because I believe that there is no knowledge without unity.
 
 # Currently
 
