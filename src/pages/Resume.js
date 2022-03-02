@@ -14,6 +14,8 @@ import degrees from '../data/resume/degrees';
 import positions from '../data/resume/positions';
 import { skills, categories } from '../data/resume/skills';
 
+const { PUBLIC_URL } = process.env;
+
 const sections = [
   'Education',
   'Experience',
@@ -37,7 +39,9 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-
+        </div>
+        <div className="curriculum">Do you prefer a PDF version of the resume?
+          <a href={`${PUBLIC_URL}/documents/CV_it.pdf`} target="_blank" rel="noreferrer"> Click here</a>
         </div>
       </header>
       <Education data={degrees} />

@@ -23,4 +23,4 @@ I'm studying for my Master’s degree in Data Science and Machine Learning at th
 
 # What I dream of
 
-- a world where everyone can find what they love.
+- a world where everyone can overcome their limitations and pursue their dreams.

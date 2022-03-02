@@ -14,7 +14,7 @@ const data = [
   {
     title: 'Test2',
     subtitle: 'Test2',
-    link: 'https://devpost.com/software/harvest',
+    link: '',
     image: '/images/projects/harvest.jpg',
     date: '2015-09-20',
     desc:

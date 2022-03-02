@@ -20,7 +20,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Michele. I like making the world a better place.
-        I am a <a href="https://www.unisa.it/">UNISA</a> graduate, where I&apos;m studying for my Master&apos;s degree in Data Science and Machine Learning.
+        I am a graduate from <a href="https://www.unisa.it/">UNISA</a>, where I&apos;m studying for my Master&apos;s degree in Data Science and Machine Learning.
       </p>
       <ul className="actions">
         <li>

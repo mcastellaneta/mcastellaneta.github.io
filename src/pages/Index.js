@@ -12,16 +12,22 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            An open door to enter my world.
+            An open port to my world
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p> Hey, thanks for joining me, it&apos;s a pleasure to meet you.</p>
+      <p>
+        On this site you can find out <Link to="/about">who I am</Link> and <Link to="/resume">what I do</Link>.
+      </p>
+      <p>
+        You want to know me even better?
+        Check out some of the {' '}
+        <Link to="/projects">projects</Link> I worked on or {' '}
+        view some <Link to="/stats">statistics</Link> about me.{' '}
+      </p>
+      <p>
+        Is there anything I can help you with? <Link to="/contact">Contact me</Link> .
       </p>
       <p> Source available <a href="https://github.com/mcastellaneta/mcastellaneta.github.io">here</a>.</p>
     </article>

@@ -1,4 +1,11 @@
 const positions = [
+  {
+    company: 'Section in development',
+    position: '',
+    link: '',
+    daterange: '',
+    points: [],
+  },
   /* {
     company: 'Skeptical Investments',
     position: 'Co-founder',

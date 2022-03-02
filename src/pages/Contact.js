@@ -20,6 +20,7 @@ const Contact = () => (
         <p>Let&apos;s get in touch. Email me at: </p>
         <EmailLink />
       </div>
+      <p>or follow me on these socials:</p>
       <ContactIcons />
     </article>
   </Main>
