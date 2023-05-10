@@ -1,11 +1,18 @@
 
 # Intro
 
-I have a bachelor’s degree with honours in Computer Science and I am finalising a Master’s degree in Data Science and Machine Learning. My University journey has been focused on web and mobile programming and I’ve gained programming fundamentals. I am very passionate and I like to solve problems and explore alternative solutions, always trying to find the one that best suits the context. I tend to share what I have learned and my ideas with people, because I believe that there is no knowledge without unity.
+💻 I am a Data Science & ML student at the University of Salerno (UNISA)
+
+👨‍🎓 I have a bachelor’s degree with honours in Computer Science. During my university studies, I learned concepts such as web and mobile programming, but also cybersecurity and systems and networks.
+
+👥 Through group projects and active involvement in my community, I learned how to communicate and work effectively with people, and manage priorities and deadlines.
+
+💙 I love playing music, sports, brain games and constantly improve my skills.
+
 
 # Currently
 
-I'm studying for my Master’s degree in Data Science and Machine Learning at the University of Salerno.
+I am currently writing my master's thesis on emotion recognition using convolutional neural networks.
 
 # What I like
 

@@ -1,6 +1,14 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Penetration Testing on Virtual Machine',
+    link: '',
+    subtitle: 'PT',
+    image: '/images/projects/PT.jpg',
+    date: '2022-09-01',
+    desc: 'The aim of the project was to identify vulnerabilities in the virtual machine and then exploit them in order to assess its security. The entire process was described through various documents, containing all the details for replicability.',
+  },
+  {
     title: 'XyloAR',
     link: 'https://docs.google.com/presentation/d/1w0aMTn3uPoUzYpU5TOtDxgHyQ6cgzDVEMKIFrTWUXo8/edit?usp=sharing',
     subtitle: 'XyloAR',
