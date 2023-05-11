@@ -9,7 +9,7 @@ import ScrollToTop from '../components/Template/ScrollToTop';
 
 const Main = (props) => (
   <HelmetProvider>
-    <Analytics />
+    <Analytics disabled />
     <ScrollToTop />
     <Helmet titleTemplate="%s | Michele Castellaneta" defaultTitle="Michele Castellaneta" defer={false}>
       {props.title && <title>{props.title}</title>}
