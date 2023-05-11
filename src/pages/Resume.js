@@ -41,8 +41,8 @@ const Resume = () => (
               </h4>))}
           </div>
         </div>
-        <div className="curriculum">Do you prefer a PDF version of the resume?
-          <a href={`${PUBLIC_URL}/documents/CV_it.pdf`} target="_blank" rel="noreferrer"> Click here</a>
+        <div className="curriculum">PDF version:
+          <a href={`${PUBLIC_URL}/documents/CV_it.pdf`} target="_blank" rel="noreferrer"> Italian</a>
         </div>
       </header>
       {Object.entries(sections).map(([name, Section]) => (
